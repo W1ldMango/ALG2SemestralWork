@@ -27,8 +27,8 @@ public class EmailSender {
 
         // Add sender
         String from = "Hotel";
-        final String username = "semestralworkhotel@gmail.com";//your Gmail username
-        final String password = "Gjhju112233";//your Gmail password
+        final String username = "";//your Gmail username
+        final String password = "";//your Gmail password
 
         String host = "smtp.gmail.com";
 
@@ -81,8 +81,8 @@ public class EmailSender {
 
         // Add sender
         String from = "Hotel";
-        final String username = "semestralworkhotel@gmail.com";//your Gmail username
-        final String password = "Gjhju112233";//your Gmail password
+        final String username = "";//your Gmail username
+        final String password = "";//your Gmail password
 
         String host = "smtp.gmail.com";
 
