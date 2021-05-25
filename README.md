@@ -1,4 +1,4 @@
-# ALG2SemestralWork
+# Room reservation system
 
 1. Zadání práce:
  Udělejte v Javě program, který bude simulovat rezervaci hotelového pokoje. Program by měl obsahovat hlavní class, který bude obsahovat UI, které bude fungovat, dokud uživatel nebude chtít ukončit program. Program umožňuje zaregistrovat se nebo se přihlásit pomocí již existujícího emailu a hesla. Zkontrolovat rezervaci, nebo vytvořit novou. Vstupy by měly být čteny z konzole od uživatele. Pro uložení emailu a hesla použijte textové soubory.
