@@ -1,0 +1,5 @@
+admin@gmail.com:admin123
+admin1@gmail.com:admin123
+admin2@gmail.com:admin123
+admin3@gmail.com:admin123
+admin4@gmail.com:admin123

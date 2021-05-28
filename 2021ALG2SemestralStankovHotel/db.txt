@@ -1,0 +1,3 @@
+admin@gmail.com:admin123
+admin1@gmail.com:admin123
+justfoxel@gmail.com:admin123
